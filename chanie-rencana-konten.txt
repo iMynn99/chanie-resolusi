@@ -5,6 +5,7 @@ RENCANA KONTEN CHANIE
   > Framework Javascript
     * Vue
     * React
+    * Angular
 - Struktur Data Dasar
 - Php dasar
   > Laravel
