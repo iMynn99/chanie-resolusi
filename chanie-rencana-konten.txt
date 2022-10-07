@@ -3,7 +3,9 @@ RENCANA KONTEN CHANIE
 - Javascript
   > ES7
   > Framework Javascript
-- Struktur Data Dasar
+    * Angular
+    * React
 - Php dasar
+  > Laravel
 - Project
 - Vlogs
