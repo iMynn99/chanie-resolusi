@@ -3,6 +3,7 @@ RENCANA KONTEN CHANIE
 - Javascript
   > ES7
   > Framework Javascript
+- Struktur Data Dasar
 - Php dasar
 - Project
 - Vlogs
