@@ -1,0 +1,8 @@
+RENCANA KONTEN CHANIE
+
+- Javascript
+  > ES7
+  > Framework Javascript
+- Php dasar
+- Project
+- Vlogs
